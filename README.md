@@ -1,4 +1,2 @@
-# Jugglebot
-For all CAD and code related to Project: DeepBlue Juggling
-
-I'll try to release an updated folder here for every episode in which major changes happen.
+# This repo is OUTDATED and has been replaced! Find the current repo here:
+https://github.com/Project-DeepBlue-Juggling/Jugglebot
